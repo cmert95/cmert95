@@ -1,35 +1,32 @@
 ## 🫵 Welcome to my profile!
 
-- 🏋️‍♂️💻🍔 If I had to describe myself in three words: `sports`, `computers`, and `food`.  
+- 🏋️‍♂️ If I had to describe myself in three words: `sports`, `food`, and `computers`.  
 
-- 🍽️😂 I eat like crazy — but stay away from sugar! 🚫🍭  
+- 🤓 If you're here, you're probably a computer enthusiast too — just like me!
 
-- 🏃‍♂️💪 Since 2013, I’ve been working out every single day.
-
-
-## 🫡 And yes... Technology!
-
-- 🤓❤️ If you're here, you're probably a computer enthusiast too — just like me!
-
-- ⚡ Thanks to my background in electrical engineering, I'm passionate about both software and hardware.
-
-- 🖥️🔧 I love collecting second-hand computer parts and using them in my projects.
+- ⚡ Coming from an electronic engineering background, I enjoy bridging software and hardware — often through DIY projects using second-hand components.
 
  🚀🔥The moment when I overclocked my CPU by 20% and still managed to fully utilize all CPU cores in Spark...  **Now THAT’s a dream come true, right?!** 😍
 
 > "The truest guide in life is science."  
 > — *Mustafa Kemal Atatürk (1924)*
 
+## 💼 What I Do Here
 
-## ✨ A Fresh Start!
+Honestly? I pretty much just do whatever I feel like.
 
-- 🎯 This is actually my second GitHub profile!  
-(The first one got a bit too messy for my perfectionist standards 😅)
+- ⚡ Sometimes I collect, clean, and generate datasets for fun or practice.
+- 🚀 Sometimes I write small scripts for Raspberry Pi and turn them into 24/7-running systems.
+- 🛠️ Sometimes I revisit and improve the projects I built during my student years.
+- 🧰 Sometimes I dive into DevOps — automating things and managing CI/CD pipelines.
 
-- 🛠️📦 I'm slowly moving my projects here while organizing everything better.
+I’m a bit of a perfectionist — I can’t help but care deeply about structure, clarity, and making things feel “just right.”
 
-- 💼🔎 At the same time, I'm actively looking for a job — and even if I can't do it all at once, I'm determined to keep moving forward! 🚀😄💪
+## 🌱 Currently Working On
 
+- 🔎 Migrating my best work to this new GitHub account.
+- 🎧 Developing a character analysis tool for Discord.
+- 💼 Looking for opportunities where I can grow, build, and contribute.
 
 > "Imagine all the people living life in peace."  
 > — *John Lennon (1971)*
